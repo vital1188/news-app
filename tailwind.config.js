@@ -13,8 +13,8 @@ module.exports = {
       bc: "#000000",
       primary: "#FFFDFB",
       secondary: "#D6E3E4",
-      danger: " #31CB53",
-      lightYellow: " #F6FF81",
+      danger: " #AEDDFB",
+      lightYellow: " #9bc4d9",
     },
   },
   variants: {
