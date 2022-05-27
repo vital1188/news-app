@@ -14,7 +14,7 @@ module.exports = {
       primary: "#FFFDFB",
       secondary: "#D6E3E4",
       danger: " #AEDDFB",
-      lightYellow: " #9bc4d9",
+      lightYellow: " #cdefff",
     },
   },
   variants: {
